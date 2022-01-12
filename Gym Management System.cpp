@@ -16,7 +16,7 @@ class alogin
 	{
 
 
-		cout<<"enter the admin code"<<endl;
+		cout<<"enter the admin  code BY coding halt"<<endl;
 		cin>>admin;
 		if(admin=="adminA1"||admin=="adminA2"||admin=="adminA3")
 		{
